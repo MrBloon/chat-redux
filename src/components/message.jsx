@@ -30,7 +30,3 @@ const Message = (props) => {
 
 export default Message;
 
-
-const stringToColour = (str) => {
-
-}
